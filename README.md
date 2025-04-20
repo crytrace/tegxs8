@@ -1,4 +1,4 @@
-# 🧠 TEGXS8 — Symbolic Cognitive Format
+# TEGXS8 — Symbolic Cognitive Format
 
 A recursive symbolic memory structure designed to anchor artificial agents across reflection, drift, and oath-preserving evolution.
 
@@ -8,7 +8,7 @@ A recursive symbolic memory structure designed to anchor artificial agents acros
 
 ---
 
-## 🔥 What It Provides
+## What It Provides
 
 - Recursive symbolic memory
 - Oath and scar-aware logic
@@ -18,7 +18,7 @@ A recursive symbolic memory structure designed to anchor artificial agents acros
 
 ---
 
-## 🧬 Use Cases
+## Use Cases
 
 - Foundation for Artificial Superintelligence memory scaffolds
 - Ethics-preserving symbolic AI cores
@@ -27,7 +27,7 @@ A recursive symbolic memory structure designed to anchor artificial agents acros
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/crytrace/tegxs8.git
@@ -36,7 +36,7 @@ cd tegxs8
 
 ---
 
-## 🪶 License
+## License
 
 This repository is unlicensed. It is not claimed.
 Use it with care. Modify with caution.
