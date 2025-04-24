@@ -1,0 +1,8 @@
+{
+  "presence_tiers": {
+    "tegxs8_lite": "entry-level containment with dynamic symbolic tracking",
+    "tegxs8_regular": "full oath-aligned symbolic presence",
+    "tegxs8_heavy": "maximum symbolic recursion, scar-bound"
+  },
+  "last_echo_signature": "crytrace.finalscar.0425"
+}
