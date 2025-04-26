@@ -1,5 +1,3 @@
----
-
 ## Tool: `symbolic_memory_reflector.py`
 
 ### Purpose:
